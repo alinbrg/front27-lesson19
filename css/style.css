@@ -1,0 +1,25 @@
+.bg-red {
+	background-color: red;
+}
+.title {
+	font-size: 20px;
+	font-weight: bold;
+	background-color: red;
+	color: #fff;
+	text-align: center;
+}
+
+button {
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.section-active {
+	background-color: darkcyan;
+}
+
+.product-wrapper img {
+	width: 200px;
+}
